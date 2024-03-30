@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 24px;
+  align-items: center;
+  background: #161f2c;
+  height: 64px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.accountInfo {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.header h1 {
+  color: #55657e;
+}
+
+.accountInfo h3 {
+  color: #93acd3;
+}
+
+.list h5 {
+  color: #fff;
+}
+  
+
+.list {
+  display: flex;
+  align-items: center;
+}
+
+.balon {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3px 8px;
+  background-color: #3c485c;
+  margin: 0px 15px;
+  border-radius: 15px;
+}
+
+  
